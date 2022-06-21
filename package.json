@@ -1,0 +1,25 @@
+{
+    "dependencies": {
+      "discord.js": "^13.8.0",
+      "dotenv": "^16.0.1",
+      "node-fetch": "^2.6.5"
+    },
+    "name": "globalctatbot",
+    "description": "グローバルチャット",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Taka005/GlobalChatBOT.git"
+    },
+    "keywords": [],
+    "author": "Taka05#1203",
+    "license": "GNU LICENSE 3.0",
+    "bugs": {
+      "url": "https://github.com/Taka005//GlobalChatBOT/issues"
+    },
+    "homepage": "https://github.com/Taka005/GlobalChatBOT#readme"
+  }
