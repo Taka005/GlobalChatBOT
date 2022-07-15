@@ -5,7 +5,7 @@
       "node-fetch": "^2.6.5"
     },
     "name": "globalctatbot",
-    "description": "グローバルチャット",
+    "description": "Discordグローバルチャット",
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
